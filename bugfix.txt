@@ -1,0 +1,1 @@
+"Bug corrig‚ : problŠme d'affichage r‚solu en modifiant la classe CSS." 
